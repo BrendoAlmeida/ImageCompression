@@ -4,3 +4,4 @@ pyfftw
 jupyter
 matplotlib
 bitmath
+opencv-python
