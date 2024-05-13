@@ -1,3 +1,4 @@
 pillow
 image-similarity-measures
 pyfftw
+jupyter
