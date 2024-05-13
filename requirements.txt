@@ -2,3 +2,5 @@ pillow
 image-similarity-measures
 pyfftw
 jupyter
+matplotlib
+bitmath
