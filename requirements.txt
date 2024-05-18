@@ -5,3 +5,6 @@ jupyter
 matplotlib
 bitmath
 opencv-python
+numpy
+
+PyQt5
